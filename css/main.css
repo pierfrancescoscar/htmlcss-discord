@@ -66,6 +66,10 @@ padding-right: 60px;
     line-height: 25px;
 }
 
+.footer-title {
+    color: #7289DA;
+    font-weight: 600;
+}
 
 /* Main Menu Styling */
 
@@ -211,12 +215,38 @@ padding-right: 60px;
 
 footer {
     background: #23272A;
+    
+}
+
+footer li {
+    list-style: none;
+    color: white;
 }
 
 .main-footer-info {
     float: left;
     width: 30%;
+    
 }
+
+.main-footer-info h3 {
+    font-size: 25px;
+    color: #7289DA;
+}
+
+.main-footer-info .language {
+    color: white;
+}
+
+.language::before {
+    content: url('../img/ita.png')
+    
+}
+
+.language::after {
+    content: "\f0dd";
+}
+
 
 .footer-products-list {
     float: left;
