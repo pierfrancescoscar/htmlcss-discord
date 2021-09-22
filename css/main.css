@@ -19,7 +19,7 @@ body {
 
 h2 {
     color: black;
-    font-size: 21px;
+    font-size: 45px;
 }
 
 .debug-box {
@@ -40,6 +40,11 @@ h2 {
     padding-right: 20px;
 }
 
+.px-60 {
+padding-left: 60px;
+padding-right: 60px;
+}
+
 .py-20 {
     padding: 20px 0;
 }
@@ -47,6 +52,18 @@ h2 {
 .py-100 {
     padding-top: 100px;
     padding-bottom: 100px;
+}
+
+.xy-alignment {
+    transform: translate(50%,50%);
+}
+
+.mt-25 {
+    margin-top: 25px;
+}
+
+.txt-lh {
+    line-height: 25px;
 }
 
 /* Main Menu Styling */
@@ -104,7 +121,6 @@ h2 {
 }
 
 .hero-title h2 {
-    font-size: 45px;
     color: white;
 }
 
@@ -118,6 +134,22 @@ h2 {
 }
 
 
+/* First Page Content Styling */
+
+.first-content-container {
+    background: white;
+}
+
+.first-content-image {
+    width: 60%;
+    float: left;
+}
+
+
+.first-content-text {
+    width: 25%;
+    float: left;
+}
 
 
 
