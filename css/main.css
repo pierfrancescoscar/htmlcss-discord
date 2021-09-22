@@ -66,6 +66,7 @@ padding-right: 60px;
     line-height: 25px;
 }
 
+
 /* Main Menu Styling */
 
 .main-menu {
@@ -151,6 +152,24 @@ padding-right: 60px;
     float: left;
 }
 
+
+/* Second Page Content Styling */
+
+.second-content-container {
+    background: #F6F6F6;
+   
+}
+
+.second-content-image  {
+    width: 60%;
+    float: left;
+   
+}
+
+.second-content-text {
+    width: 25%;
+    float: left;
+}
 
 
 
