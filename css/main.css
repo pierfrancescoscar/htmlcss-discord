@@ -189,4 +189,23 @@ padding-right: 60px;
     float: left;
 }
 
+/* Fourth Page Content */
+
+.fourth-content-container {
+    background: #f6f6f6;
+    text-align: center;
+    
+}
+
+.fourth-content-text {
+    width: 80%;
+    margin: auto;
+}
+
+.cta {
+    /* background-image: url('../img/stars.svg');
+    background-position: center;
+} */
+
+
 
