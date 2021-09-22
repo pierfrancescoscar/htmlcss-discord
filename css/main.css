@@ -39,7 +39,7 @@
 
 .main-menu {
     background-color: #3161E0;
-    height: 70px;
+    
 }
 
 .main-menu .logo-menu-container {
@@ -59,15 +59,21 @@
 }
 .logo-menu-container {
     text-align: center;
-
 }
+
 .logo {
+    padding-top: 14px;
+    cursor: pointer;
     float: left;
 }
 
-.main-navigation nav {
-    vertical-align: middle;
-
+.login-button-container {
+    width: 25%;
+    float: right;
+    text-align: right;
+    
 }
+
+
 
 
