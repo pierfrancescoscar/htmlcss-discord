@@ -162,7 +162,7 @@ padding-right: 60px;
 
 .second-content-image  {
     width: 60%;
-    float: left;
+    float: right;
    
 }
 
@@ -171,6 +171,22 @@ padding-right: 60px;
     float: left;
 }
 
+/* Third Page Content */
 
+.third-content-container {
+    background: white;
+
+}
+
+.third-content-image {
+    width: 60%;
+    float: left;
+
+}
+
+.third-content-text {
+    width: 25%;
+    float: left;
+}
 
 
