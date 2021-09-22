@@ -202,10 +202,38 @@ padding-right: 60px;
     margin: auto;
 }
 
-.cta {
-    /* background-image: url('../img/stars.svg');
+/* .cta {
+    background-image: url('../img/stars.svg');
     background-position: center;
 } */
 
+/* Footer */
 
+footer {
+    background: #23272A;
+}
 
+.main-footer-info {
+    float: left;
+    width: 30%;
+}
+
+.footer-products-list {
+    float: left;
+    width: 15%;
+}
+
+.footer-company {
+    float: left;
+    width: 15%;
+}
+
+.footer-downloads {
+    float: left;
+    width: 15%
+}
+
+.footer-terms {
+    float: left;
+    width: 15%;
+}
